@@ -707,7 +707,9 @@ p {
     max-width: 400px;
     margin: auto auto auto auto;
 }
-
+.fa {
+    padding-right: 10px;
+}
 h2 {
     font-size: 22px;
     line-height: 1.4em;
