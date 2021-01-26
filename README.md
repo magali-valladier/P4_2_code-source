@@ -1,5 +1,5 @@
 # P4_2_code-source
-<img src="img/lachouetteagence-logo.png" alt="logo la chouette agence">
+<img src="img/lachouetteagence-logo.webp" alt="logo la chouette agence">
 <h1>OPTIMISEZ UN SITE WEB EXISTANT</h1>
 <div>
     <p>Réaliser une recherche des bonnes pratiques en développement web<br/>
